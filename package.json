@@ -1,0 +1,33 @@
+{
+  "name": "homebridge-Celexon",
+  "version": "1.0.0",
+  "description": "Homebridge plugin for Celexon Screens",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmboss/homebridge-Celexon.git"
+  },
+  "keywords": [
+    "homebrige",
+    "kmboss",
+    "homebridge-Celexon",
+    "Celexon"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Krzysztof Milinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmboss/homebridge-Celexon/issues"
+  },
+  "homepage": "https://github.com/kmboss/homebridge-Celexon#readme"
+}
